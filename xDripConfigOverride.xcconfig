@@ -1,6 +1,1 @@
-// Customize this to change the app name displayed
 MAIN_APP_DISPLAY_NAME = CGM
-
-// Change to support running multiple apps simultaneously.
-MAIN_APP_BUNDLE_IDENTIFIER = com.liroyvh.xdrip     
-
